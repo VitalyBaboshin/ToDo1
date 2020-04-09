@@ -1,0 +1,9 @@
+@import "~bootstrap/scss/bootstrap";
+.todoDone {
+  text-decoration: line-through;
+  font-style: italic;
+  color: gray;
+}
+.btn{
+  float: right;
+}
